@@ -183,6 +183,6 @@ Open a pull request 🎉
 MIT License
 
 🙋‍♂️ Author
-Your Name
+Ankush Srivastava
 Made with 💻 for MathonGO Assignment
 
